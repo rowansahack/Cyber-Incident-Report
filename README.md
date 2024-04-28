@@ -1,2 +1,2 @@
 # Cyber-Incident-Report
-A document showing my ability to conduct a security audit, and recomendations for improving security posture.
+A document detailing a cybersecurity incident, showing my ability to find issues and reccomend steps to resolve them.
